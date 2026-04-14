@@ -186,6 +186,8 @@ Countries covered: `USA`, `Nigeria`, `Germany`, `Japan`, `France`, `Canada`, `It
 ---
 ## Sample Report
 <img width="899" height="895" alt="image" src="https://github.com/user-attachments/assets/1e690631-6c3a-4045-a6c3-9058d885ecab" />
+## link to report 
+https://lookerstudio.google.com/reporting/843af0e5-33e0-44ea-a760-8a2f7a979d27
 
 
 
